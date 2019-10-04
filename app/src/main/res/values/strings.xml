@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapPermission</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="latitud">Latitud: </string>
+    <string name="longitud">Longitud: </string>
+</resources>
